@@ -9,5 +9,9 @@ public class test {
 		System.out.println("this is a test only");
 
 	}
+	
+	public void testOnly() {
+		
+	}
 
 }
