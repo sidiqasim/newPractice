@@ -12,6 +12,10 @@ public class test {
 		int a = 20;
 		
 		int b = 30;
+		
+		char t = 'g';
+		byte m = 2;
+		
 	}
 
 
