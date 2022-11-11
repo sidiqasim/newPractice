@@ -9,13 +9,6 @@ public class test {
 		System.out.println("this is a test only");
 
 		
-		int a = 20;
-		
-		int b = 30;
-		
-		char t = 'g';
-		byte m = 2;
-		
 	}
 
 
