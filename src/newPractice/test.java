@@ -8,10 +8,11 @@ public class test {
 		
 		System.out.println("this is a test only");
 
-	}
-	
-	public void testOnly() {
 		
+		int a = 20;
+		
+		int b = 30;
 	}
+
 
 }
